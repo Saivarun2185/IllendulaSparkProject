@@ -70,6 +70,7 @@ Source: [PS4 Wikipedia](https://en.wikipediaorg/wiki/PlayStation)
     ```
 ## Results:
 
+In the text I have processed for the top 10 highest number of repeated words, word "the" has highest number of repetitions (20) followed by the word "and" (18) and the least number of repetitions for the word "also" (5). I have plotted the data on a bar graph showing the frequncies of the repeated words.
 ### Chart:
 <img src = "Images/WordCount.png" alt = "Word Count Chart">
 
