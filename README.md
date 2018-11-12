@@ -71,7 +71,7 @@ Source: [PS4 Wikipedia](https://en.wikipediaorg/wiki/PlayStation)
 ## Results:
 
 ### Chart:
-![Wordcountchart](https://raw.githubusercontent.com/Saivarun2185/IllendulaSparkProject/blob/master/Images/WordCount.png)
+<img src = "Images/WordCount.png" alt = "Word Count Chart">
 
 
 ### Data:
